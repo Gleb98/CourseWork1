@@ -26,5 +26,10 @@ namespace MainForm
         {
 
         }
+
+        private void progressForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

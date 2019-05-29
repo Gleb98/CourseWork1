@@ -1,6 +1,6 @@
 D:\C# Проекты\CourseWork\MainForm\ClassLibrary\bin\Debug\ClassLibrary.dll
 D:\C# Проекты\CourseWork\MainForm\ClassLibrary\bin\Debug\ClassLibrary.pdb
-D:\C# Проекты\CourseWork\MainForm\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
 D:\C# Проекты\CourseWork\MainForm\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 D:\C# Проекты\CourseWork\MainForm\ClassLibrary\obj\Debug\ClassLibrary.dll
 D:\C# Проекты\CourseWork\MainForm\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\C# Проекты\CourseWork\MainForm\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache

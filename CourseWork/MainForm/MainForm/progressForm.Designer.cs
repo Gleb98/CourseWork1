@@ -60,6 +60,7 @@
             this.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.Name = "progressForm";
             this.Text = "progressForm";
+            this.Load += new System.EventHandler(this.progressForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

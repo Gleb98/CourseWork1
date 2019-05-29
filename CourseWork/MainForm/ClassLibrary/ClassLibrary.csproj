@@ -46,9 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OpenExcelFile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="redactWS.cs" />
-    <Compile Include="StudyPlan.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
